@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    background: url('image.jpeg') no-repeat center center/cover;
     background-color: #f6f6f1;
     margin: 0;
     padding: 0;
